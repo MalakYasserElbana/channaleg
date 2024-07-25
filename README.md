@@ -1,1 +1,1 @@
-# channaleg
+# chan-nalegmak
