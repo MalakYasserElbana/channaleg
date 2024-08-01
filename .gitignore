@@ -1,0 +1,6 @@
+filelog.txt 
+#1-ignore a serten file
+logs/ 
+#2-ignore every thing in that folder
+logs/*.txt 
+#3-only ignore the files that are .txt in the folder loigs
